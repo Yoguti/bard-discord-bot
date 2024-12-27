@@ -20,25 +20,30 @@ Here's a taste of what Bumbling Bard can do:
 *   **Music Magic:**
     *   Use `b!sing <song name/URL>` to play songs from YouTube or Spotify.
     *   Manage playback using queueing, pausing, and skipping commands.
+      
     ![image](https://github.com/user-attachments/assets/35e6d51e-293d-46c0-a514-29b62a380b64)
 
 *   **Tavern Time:**
     *   Use `b!tavern` to access an interactive menu for exploring taverns, getting drinks, and interacting with your surroundings.
+      
      ![image](https://github.com/user-attachments/assets/b19b176c-68c1-4cd0-a400-8d1adc3b8250)
 
 
 *   **Dice Rolls:**
     *   Use `b!roll <dice notation>` (e.g., `b!roll 1d20`, `b!roll 2d6+2`) to roll various dice combinations.
+      
     ![image](https://github.com/user-attachments/assets/bec1e5c4-0e47-4f56-acf5-825a2c1b9bff)
 
 
 *   **NPC Generator:**
     *   Use `b!npc` to generate a random non-player character.
+      
     ![image](https://github.com/user-attachments/assets/9533c783-4057-4c63-9d50-7630129072b5)
 
 
 *   **Loot Generation:**
     *   Use `b!loot` to generate a random loot table.
+      
      ![image](https://github.com/user-attachments/assets/691ee4a9-42bb-4408-aba2-86e582417910)
 
 
