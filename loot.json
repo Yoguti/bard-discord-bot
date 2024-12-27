@@ -1,0 +1,1999 @@
+{
+    "loot": {
+        "common": {
+            "chance": 50,
+            "items": [
+                {
+                    "title": "Rusty Sword",
+                    "description": "A battered sword, worn from use. It might still be of use.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Tattered Leather Boots",
+                    "description": "Well worn and smelling of feet, these boots will do.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Small Health Potion",
+                    "description": "Restores a small amount of health.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Old Wooden Shield",
+                    "description": "A shield that has seen better days, but still provides some defense.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Bag of Marbles",
+                    "description": "A small bag filled with marbles. Might distract an enemy if thrown.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Torn Scroll",
+                    "description": "An old scroll with faded writing. Might contain useful information.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Dull Dagger",
+                    "description": "A dagger that has lost its edge but could still be used in a pinch.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Old Map",
+                    "description": "A weathered map showing locations of interest.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Worn Tunic",
+                    "description": "A simple garment that's seen better days but provides minimal coverage.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Frayed Rope",
+                    "description": "A length of rope that's starting to fray but can still hold some weight.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Wooden Spoon",
+                    "description": "An unremarkable spoon made of wood. Useful for cooking.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Glass Jar",
+                    "description": "An empty glass jar. Could be useful for storage.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Old Lantern",
+                    "description": "A lantern that no longer lights but could still serve as a makeshift weapon.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Scuffed Leather Belt",
+                    "description": "A worn belt that could still hold up your trousers.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Mossy Stone",
+                    "description": "A stone covered in moss, could be used as a simple weapon.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Cracked Pot",
+                    "description": "A pot with cracks, not suitable for cooking but could be repurposed.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Faded Journal",
+                    "description": "A journal with faded pages, may contain notes.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Empty Bottle",
+                    "description": "Once used for potion making, could be filled up again.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "String of Beads",
+                    "description": "A decorative string of beads, might be of interest to some.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Rusty Key",
+                    "description": "A key that looks like it hasn't been used in years.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Splintered Staff",
+                    "description": "A staff that's seen better days, but can still be wielded.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Crumpled Map",
+                    "description": "A map that's been crumpled and torn, depicting a location of interest.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Wooden Toy",
+                    "description": "A simple wooden toy, it has no practical use but could bring a smile.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Sandy Boots",
+                    "description": "Footwear that has seen sandy beaches. Still provides some protection.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Rusty Helm",
+                    "description": "An old helm that's seen countless battles, providing minimal protection.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Frayed Cloak",
+                    "description": "A tattered cloak that offers little warmth but can serve as a disguise.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Cracked Mirror",
+                    "description": "A mirror with a crack. Useful for checking one's appearance.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Battered Shield",
+                    "description": "A shield with numerous dents. Offers limited protection against attacks.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Faded Playing Cards",
+                    "description": "A deck of cards worn from use. Great for games on a long journey.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Worn Quiver",
+                    "description": "An arrow holder that's been used extensively. Can still hold arrows.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Old Fishing Net",
+                    "description": "A net that has seen better days but may still catch a fish.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Grimy Flask",
+                    "description": "A flask that's seen better days. May still hold a drink.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Paper Lantern",
+                    "description": "A simple lantern made of paper, currently unlit.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Faded Bandana",
+                    "description": "A bandana that's seen frequent use. Useful for hygiene or fashion.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Wooden Comb",
+                    "description": "A comb made of mismatched wood, could still untangle hair.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Empty Satchel",
+                    "description": "A small bag with no contents, could be used for carrying items.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Crumbled Bread",
+                    "description": "Stale bread that's lost its softness, still edible in a pinch.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Faded Concertina",
+                    "description": "An old musical instrument that produces a soft sound.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Tattered Banner",
+                    "description": "A banner with frayed edges, could be used for decoration or signaling.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Small Wooden Box",
+                    "description": "A simple box, potentially useful as a storage container.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Rusty Nails",
+                    "description": "A handful of old nails. Could be useful for crafting.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Dusty Bookshelf",
+                    "description": "An old wooden shelf, looks like it could hold a few books.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Pet Rock",
+                    "description": "An unremarkable rock that serves as a conversation starter.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Worn-out Sling",
+                    "description": "An old sling, frayed at the edges but can still launch stones.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Stained Apron",
+                    "description": "An apron covered in stains from cooking. Could still protect clothes.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Cracked Clay Mug",
+                    "description": "A mug with a large crack, leaks a bit but can still hold liquid.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Brittle Feather",
+                    "description": "A feather that seems fragile and can be used for decoration.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Worn Stone",
+                    "description": "A small stone, smooth from being carried around for years.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Damp Scrollcase",
+                    "description": "An old scrollcase that appears damp but might protect its contents.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Old Banknote",
+                    "description": "A worn banknote that might still have some value.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Ancient Coin",
+                    "description": "A coin from a forgotten era, could be of interest to collectors.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Expired Map",
+                    "description": "A map that shows old locations no longer relevant.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Simple Whistle",
+                    "description": "A basic whistle that could be used to signal others.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Torn Fabric Swatch",
+                    "description": "A piece of fabric that could be used for patching up clothes.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Weathered Keyring",
+                    "description": "A keyring with a few rusted keys that lead to unknown doors.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Brown Leather Patch",
+                    "description": "A small patch of leather that can be used for crafting.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Half-burnt Candle",
+                    "description": "A candle that has burned down halfway, could still provide light.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Brittle Straw Hat",
+                    "description": "A straw hat that's crumbling but could provide shade.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Rough Gemstone",
+                    "description": "A rough, uncut gemstone with potential for crafting.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Old Fishing Hook",
+                    "description": "A rusted hook that could still be used while fishing.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Worn Scroll of Recipes",
+                    "description": "A scroll filled with recipes, some may still be legible.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Colder-than-ice Stone",
+                    "description": "A stone that feels unusually cold, may have special properties.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Wooden Chess Piece",
+                    "description": "A lone chess piece, could serve as a game piece or decoration.",
+                    "rarity": "common"
+                },
+                {
+                    "title": "Charred Twig",
+                    "description": "A burnt twig from a past fire, possibly useful for starting a new fire.",
+                    "rarity": "common"
+                }
+            ]
+        },
+    "uncommon": {
+        "chance": 40,
+        "items": [
+            {
+                "title": "Steel Shortsword",
+                "description": "A decent steel shortsword, showing some signs of use.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Studded Leather Armor",
+                "description": "A worn leather armor with small studs for extra protection.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Medium Health Potion",
+                "description": "Restores a moderate amount of health.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Iron Shield",
+                "description": "A sturdy shield made of iron, providing decent protection.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Thief's Toolkit",
+                "description": "A set of tools perfect for lockpicking and sneaking.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Elven Bow",
+                "description": "A finely crafted bow that feels almost weightless in the hand.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Healing Salve",
+                "description": "A salve that can heal minor wounds.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Gemstone",
+                "description": "A small, sparkling gemstone that could be worth something.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Mithril Dagger",
+                "description": "A lightweight dagger made from mithril, known for its durability.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Robes of the Scholar",
+                "description": "Elegant robes worn by learned individuals.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Potion of Invisibility",
+                "description": "A potion that grants temporary invisibility to the drinker.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Firestarter Kit",
+                "description": "A kit containing flint, tinder, and other essentials for starting a fire.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Silver Ring",
+                "description": "A simple ring made of silver, could be a token of affection.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Explorer's Map",
+                "description": "A detailed map of the surrounding area filled with interesting notes.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Druidic Focus",
+                "description": "A small totem used by druids to channel their magic.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Bejeweled Pendant",
+                "description": "A pendant embellished with a variety of sparkling jewels.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Ancient Tome",
+                "description": "A weathered book filled with spells and ancient wisdom.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Traveling Cloak",
+                "description": "A cloak that provides warmth and concealment while traveling.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Crossbow",
+                "description": "A reliable crossbow, perfect for ranged attacks.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Lockpicks",
+                "description": "A set of tools designed for picking locks.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Tattered Banner",
+                "description": "A banner representing an ancient house, tattered from age.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Secret Compendium",
+                "description": "A book filled with secrets of the arcane.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Lantern Oil",
+                "description": "A flask of oil for lanterns, providing light in dark places.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Alchemical Flask",
+                "description": "A glass flask used for mixing alchemical ingredients.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Hunting Trap",
+                "description": "A sturdy trap used for catching small game.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Vial of Mercury",
+                "description": "A small vial containing liquid mercury for potion-making.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Scarf of the Wind",
+                "description": "A flowing scarf that billows gently, even in still air.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Scribe's Kit",
+                "description": "Tools for writing and drawing, perfect for scholars.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Cloak of Shadows",
+                "description": "A cloak that blends into darkness, enhancing stealth.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Perfume of Allure",
+                "description": "A sweet-smelling perfume that draws attention.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Scroll of Minor Illusion",
+                "description": "A scroll containing spells for creating minor illusions.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Stone of Foresight",
+                "description": "A smooth stone that is said to bring clarity of thought.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Fishing Rod",
+                "description": "A sturdy rod for fishing in lakes and rivers.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Cursed Amulet",
+                "description": "An amulet said to bring bad luck to its wearer.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Mystic Lantern",
+                "description": "A lantern that glows in the presence of magical energy.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Bandit's Satchel",
+                "description": "A small bag used to carry stolen goods.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Mariner's Compass",
+                "description": "A compass designed for navigating the seas.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Feathered Quill",
+                "description": "A beautifully crafted quill for writing, ideal for scribes.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Travelers' Rations",
+                "description": "Non-perishable food suitable for long journeys.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Gilded Mirror",
+                "description": "An ornate mirror with a gold frame that reflects more than just appearances.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Tuning Fork",
+                "description": "A metal tuning fork that resonates with magical energy when struck.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Pack of Sketch Paper",
+                "description": "A bundle of high-quality paper for drawing and note-taking.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Carved Bone Necklace",
+                "description": "A necklace made from intricately carved bones of unknown creatures.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Waterproof Pouch",
+                "description": "A durable pouch designed to keep items dry in wet conditions.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Traveler's Journal",
+                "description": "A leather-bound journal filled with the notes and thoughts of a seasoned traveler.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Chalk of Divination",
+                "description": "A piece of chalk used for drawing circles and symbols for prophetic rituals.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Vial of Stardust",
+                "description": "A small vial filled with shimmering dust gathered from the night sky.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Iron Cooking Pot",
+                "description": "A heavy cooking pot for preparing meals over an open fire.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Sailor's Harpoon",
+                "description": "A rugged harpoon designed for hunting sea creatures.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Glass Blowing Tool",
+                "description": "A tool used by artisans to shape molten glass into beautiful forms.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Weathered Map",
+                "description": "A fragile map showing the layout of a long-lost civilization.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Simple Flute",
+                "description": "A wooden flute that produces sweet melodies.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Knotted Rope",
+                "description": "A sturdy rope with several knots tied into it, useful for climbing.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Brass Spyglass",
+                "description": "A small telescope made of brass, useful for spotting things at a distance.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Stone Tablet",
+                "description": "A flat stone tablet inscribed with ancient script.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Giant's Tooth",
+                "description": "A large, sharp tooth from a creature of immense size.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Emberstone",
+                "description": "A small stone that glows faintly with internal heat.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Cloak Pin",
+                "description": "A decorative pin used to fasten a cloak, adorned with symbols of protection.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Shard of Ice",
+                "description": "A perfectly formed shard of ice that never melts.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Bard's Anthems Sheet",
+                "description": "A compilation of songs that inspire courage and bravery.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Sealed Letter",
+                "description": "A mysterious letter sealed with wax, its contents unknown.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Pouch of Herbal Remedies",
+                "description": "A small pouch containing various dried herbs for natural healing.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Engraved Locket",
+                "description": "A locket containing a small picture of an unknown figure.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Old Chess Set",
+                "description": "A beautifully crafted chess set with intricate pieces.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Direwolf Fur",
+                "description": "A patch of thick fur from a direwolf, known for its warmth.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Celestial Map",
+                "description": "A map of the stars that aids in navigation and predicting events.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Pocket Watch",
+                "description": "An intricate pocket watch that still keeps perfect time.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Bowl of Sorrow",
+                "description": "A carved wooden bowl said to hold the tears of the past.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Ritual Dagger",
+                "description": "A ceremonial dagger used in ancient rites, intricately designed.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Dreamcatcher",
+                "description": "A handmade dreamcatcher said to protect against nightmares.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Tin Whistle",
+                "description": "A simple wind instrument that produces sweet melodies.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Mapmaker's Compass",
+                "description": "A finely crafted compass crucial for navigating uncharted territories.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Crystal Ball",
+                "description": "A smooth crystal sphere used by seers to glimpse into the future.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Firestarter Kit",
+                "description": "A simple kit containing flint and tinder for starting a fire.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Engraved Pebble",
+                "description": "A small stone etched with strange symbols, rumored to possess magical properties.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Vial of Echo Water",
+                "description": "Water said to capture the voice of the last creature that touched it.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Mysterious Key",
+                "description": "An intricately designed key with no known lock.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Portable Alchemy Set",
+                "description": "A compact kit containing tools for conducting alchemical experiments.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Old Ether Flare",
+                "description": "A flare used by adventurers and explorers to signal for help.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Singing Stone",
+                "description": "A stone that emits haunting melodies when struck.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Stone of Vision",
+                "description": "A smooth stone said to grant clarity and insight into one’s surroundings.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Traveler's Cloak",
+                "description": "A weathered cloak that provides warmth and shelter from the elements.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Smoke Bomb",
+                "description": "A small device that creates a cloud of smoke when ignited, useful for escapes.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Puppeteer's Strings",
+                "description": "A set of strings used for marionette puppets, imbued with light magic.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Cursed Coin",
+                "description": "An old coin that brings bad luck to its holder.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Ancient Tome",
+                "description": "A dusty book filled with long-lost knowledge and spells.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Silk Thread",
+                "description": "A spool of exquisite silk thread, perfect for crafting or repairs.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Potion of Insight",
+                "description": "A small vial containing a shimmering liquid, granting extra insight and clarity.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Quill of the Scribe",
+                "description": "A finely crafted quill that never runs out of ink.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Barkskin Oil",
+                "description": "An oil that, when applied to the skin, grants temporary toughness.",
+                "rarity": "uncommon"
+            },
+            {
+                "title": "Philosopher's Stones",
+                "description": "Small, smooth stones believed to amplify the user's potential.",
+                "rarity": "uncommon"
+            }
+        ]
+    },
+    "rare": {
+        "chance": 25,
+        "items": [
+            {
+                "title": "Enchanted Silver Blade",
+                "description": "A shimmering silver blade, humming with arcane energy.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Elven Leather Armor",
+                "description": "Light and flexible armor crafted by Elven hands.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Large Health Potion",
+                "description": "Restores a large amount of health.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Crossbow of Precision",
+                "description": "A finely crafted crossbow that increases accuracy.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Ring of Protection",
+                "description": "A magical ring that grants a small boost to defense.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Potion of Strength",
+                "description": "Temporarily increases the user's physical strength.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Spellbook of Minor Spells",
+                "description": "A book containing a variety of simple spells.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Cloak of Shadows",
+                "description": "A cloak that provides concealment in dim light.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Crystal Pendant",
+                "description": "A beautiful crystal pendant that glows faintly, enhancing intuition.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Worn Grimoire",
+                "description": "An ancient book filled with forgotten spells and incantations.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Vambraces of the Falcon",
+                "description": "These vambraces are light and imbue the wearer with enhanced agility.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Tome of Lost Knowledge",
+                "description": "A decaying tome filled with snippets of forgotten lore and history.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Gauntlets of the Earth",
+                "description": "Heavy gauntlets that increase your grip and stability.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Emerald Ring",
+                "description": "An intricately carved ring set with a large emerald, enhancing magical affinity.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Amulet of the Wilds",
+                "description": "An amulet that allows communication with animals.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Scepter of Whispering Winds",
+                "description": "A scepter that channels breezes and whispers secrets in your ear.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Frostfire Potion",
+                "description": "A potion that grants resistance to both fire and ice for a short duration.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Mapmaker's Toolkit",
+                "description": "A set of tools necessary for creating accurate maps, highly valued by explorers.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Starlight Cloak",
+                "description": "A cloak that shimmers like the night sky, providing a boost to stealth.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Chalice of Healing",
+                "description": "An ornate chalice capable of pouring revitalizing water when filled.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Portal Key",
+                "description": "A specially designed key that opens a temporary portal to a desired destination.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Cursed Silver Coin",
+                "description": "A beautifully crafted coin that, while valuable, brings misfortune.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Feathered Quill",
+                "description": "A rare quill that writes in radiant ink, believed to inspire creativity.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Gilded Chalice",
+                "description": "An ornate chalice made of gold, said to enhance the flavor of any drink.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Windwalker Boots",
+                "description": "These boots allow for silent movement and increased speed.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Rune-etched Shield",
+                "description": "A sturdy shield engraved with protective runes, enhancing defense.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Phoenix Feathers",
+                "description": "A collection of feathers from a phoenix, known for their magical properties.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Echoing Horn",
+                "description": "A horn that, when blown, amplifies the user's voice and charms any listener.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Gossamer Wings",
+                "description": "Delicate wings that allow for brief flight, perfect for escaping peril.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Cyanide Pendant",
+                "description": "A pendant that enhances stealth but bears a slight risk of misfortune.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Blazing Tome",
+                "description": "A book of spells that ignites with magical flames, illuminating secrets.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Bracers of Resilience",
+                "description": "Sturdy bracers that provide minor resistance to magic attacks.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Illusory Mask",
+                "description": "A mask that can change the wearer’s appearance to that of anyone they’ve seen.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Silvered Bowstring",
+                "description": "A bowstring made of fine silver that increases range and accuracy.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Locket of Memories",
+                "description": "An ornate locket that holds memories, allowing the wearer to relive a favorite moment.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Celestial Globe",
+                "description": "A small globe that, when spun, reveals the night sky as it appeared on a specific date.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Butterfly Cloak",
+                "description": "A cloak decorated with vibrant patterns that provide a boost to agility and grace.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Whispering Crystal",
+                "description": "A crystal that softly whispers wisdom, said to enhance decision-making.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Frostbite Ring",
+                "description": "A ring that grants minor ice magic abilities, useful for making quick escapes.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Serpent's Tongue Dagger",
+                "description": "A sleek dagger made to resemble a serpent, effective for stealthy strikes.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Nomad’s Satchel",
+                "description": "A large satchel that magically expands, allowing it to carry more than it seems.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Eldritch Lantern",
+                "description": "A lantern that sheds light revealing hidden truths and secrets in the darkness.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Elixir of Agility",
+                "description": "A potent elixir that grants the user a temporary increase in speed and dexterity.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Necromancer’s Hand",
+                "description": "A preserved hand that twitches oddly, rumored to enhance necromantic abilities.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Diviner’s Orb",
+                "description": "An orb that helps its user locate lost items or people nearby.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Gilded Compass",
+                "description": "A beautifully crafted compass that always points to the user's next goal or desire.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Shard of Luck",
+                "description": "A small crystal shard that increases the user’s fortune for a short period.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Phoenix Ashes",
+                "description": "Ashes from a phoenix said to possess healing properties when sprinkled over wounds.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Shadowstep Boots",
+                "description": "Boots that allow the wearer to move faster in dim light or darkness.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Starfall Amulet",
+                "description": "An amulet that grants the wearer minor control over starlight.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Inscribed Rod",
+                "description": "A rod inscribed with ancient runes that enhances spell potency for its bearer.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Guardian’s Stone",
+                "description": "A small stone that, when held, increases physical defenses against incoming attacks.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Demon’s Tear Amulet",
+                "description": "An amulet containing a crystal that glows when danger is near.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Mists of Time Hourglass",
+                "description": "An hourglass that, when turned, briefly allows the user to see possible futures.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Adventurer's Whistle",
+                "description": "A simple whistle that summons a friendly creature to aid the bearer in times of need.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Emberstone Gem",
+                "description": "A fiery red gem that enhances fire-based spells and abilities.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Mystic Feather",
+                "description": "A feather that can be used to enhance the user’s aerial abilities or grant a temporary flight.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Obsidian Talisman",
+                "description": "A talisman that offers protection against shadow creatures and dark magic.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Harmonious Flute",
+                "description": "A flute that produces enchanting melodies to charm allies and confuse enemies.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Glimmering Scale",
+                "description": "A scale from a rare sea creature that imbues water spells with additional power.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Dusk Cloak",
+                "description": "A cloak that absorbs light, allowing the wearer to blend into the shadows.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Sorcerer's Marbles",
+                "description": "A set of magical marbles that can create illusions or distract foes when thrown.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Traveler’s Charm",
+                "description": "A small charm that increases favorable encounters on journeys.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Sunstone Ring",
+                "description": "A ring imbued with sunlight, providing warmth and protection against cold environments.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Blizzard Shard",
+                "description": "A shard of ice that, when thrown, creates a brief snowstorm, obscuring vision.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Recycler's Gem",
+                "description": "A gem that gives the bearer a chance to recover materials when crafting or dismantling.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Whimsical Journal",
+                "description": "A magical journal that records thoughts and inspirations, sometimes writing back with advice.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Rune-imbued Quiver",
+                "description": "A quiver that magically replenishes a few arrows each day, decorated with ancient runes.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Glimmering Dust",
+                "description": "A pouch of dust that can create a blinding flash when thrown.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Veil of Serenity",
+                "description": "A light veil that calms the mind and provides clarity in stressful situations.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Dragonbone Amulet",
+                "description": "An amulet made from the bone of a dragon, enhancing physical strength.",
+                "rarity": "rare"
+            },
+            {
+                "title": "Charmed Compass",
+                "description": "A compass that not only points north but also leads the user to their heart's desire.",
+                "rarity": "rare"
+            }
+        ]
+    },
+    "epic": {
+        "chance": 15,
+        "items": [
+            {
+                "title": "Demon Slaying Sword",
+                "description": "Forged in the fires of a volcano, this sword thirsts for demon blood.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Dragonscale Armor",
+                "description": "Armor crafted from the scales of a mighty dragon.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Potion of Greater Healing",
+                "description": "A potent potion that restores a large amount of health and stamina.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Staff of the Arcane",
+                "description": "A powerful staff that enhances magical abilities.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Amulet of the Sun",
+                "description": "An amulet that grants the wearer resistance to fire.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Gauntlets of Ogre Power",
+                "description": "Magical gauntlets that significantly increase physical strength.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Crown of Wisdom",
+                "description": "A crown that improves the thought processes of the wearer.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Boots of Speed",
+                "description": "Magical boots that allow the wearer to move faster than normal.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Blade of Night",
+                "description": "A sword forged from a fallen star, granting enhanced agility in combat.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Elixir of Swiftness",
+                "description": "A potion that increases the drinker's speed and reaction time for a short duration.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Robes of the Seer",
+                "description": "Robes that enhance foresight and intuition, improving decision-making in battle.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Ring of Ice Resistance",
+                "description": "A ring that protects against cold damage and enhances ice spells.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Frostbite Dagger",
+                "description": "A dagger that slows enemies on contact and deals cold damage.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Gauntlets of the Storm",
+                "description": "These gauntlets allow the wearer to cast minor lightning spells.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Golem's Heart Pendant",
+                "description": "A pendant that boosts the wearer's resilience, granting temporary hit points.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Charmed Bow",
+                "description": "A bow that creates arrows imbued with magic for precise shots.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Shield of Valor",
+                "description": "A sturdy shield that grants the wielder inspiration, boosting allies' morale.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Mystic Elven Cloak",
+                "description": "A cloak that enhances stealth abilities and allows one to blend into the surroundings.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Phoenix Feather Quill",
+                "description": "A quill that writes spells and powerful incantations when used by a skilled mage.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Vambraces of Fatigue Resistance",
+                "description": "Armored vambraces that reduce the effects of exhaustion and fatigue in battle.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Beastmaster's Ring",
+                "description": "A ring that allows the wearer to communicate with and tame wild beasts.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Whispering Bow",
+                "description": "A bow that allows silent arrows to be shot, increasing stealth in ranged attacks.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Titan's Grip Gauntlets",
+                "description": "Gauntlets that increase the wielder's grip strength, enhancing weapon handling.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Warding Totem",
+                "description": "A small totem that creates a protective barrier against dark magic.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Scroll of Mystic Flames",
+                "description": "A scroll containing powerful fire spells that can be unleashed in battle.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Vortex Pendant",
+                "description": "A pendant that grants brief control over wind, allowing for agile maneuvers.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Emerald-Laced Helm",
+                "description": "A helm that enhances perception and clarity of thought, improving tactical decisions.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Heart of the Forest Staff",
+                "description": "A staff that allows the user to communicate with plants and animals of the forest.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Torrent Blade",
+                "description": "A sword that channels water energy, dealing extra damage to fire-based creatures.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Veil of Shadows",
+                "description": "A cloak that allows the wearer to become partially invisible in dim light.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Gae's Charm",
+                "description": "A charm that protects the bearer from curses and hexes.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Drakehide Boots",
+                "description": "Boots made from drake skin, providing enhanced agility and resistance to fire damage.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Elven Warblade",
+                "description": "A beautifully crafted blade that enhances the wielder's dexterity in combat.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Bracers of the Archer",
+                "description": "Bracers that increase the accuracy of ranged attacks significantly.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Siren’s Song Flute",
+                "description": "A magical flute that can charm creatures within earshot, influencing their actions.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Titan’s Shield",
+                "description": "A massive shield that can absorb significant damage and protect allies behind it.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Yeti Fur Cloak",
+                "description": "A warm cloak made from Yeti fur, granting resistance to cold and ice attacks.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Windsong Harp",
+                "description": "A harp that can summon gentle winds, aiding in both travel and combat strategies.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Riftwalker Boots",
+                "description": "These boots allow the wearer to step through small rifts for quick movement.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Battle Standard of Honor",
+                "description": "A banner that rallies allies, boosting their bravery and performance in battle.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Potion of Strength",
+                "description": "A powerful potion that temporarily increases physical strength when consumed.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Nebula Prism",
+                "description": "A prism that creates illusions based on the user's intentions when held.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Locket of Memories",
+                "description": "A locket that preserves the memories of its wearer, granting wisdom from past experiences.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Hallowed Ground Stone",
+                "description": "A small stone that can create a protective barrier against undead creatures.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Grail of Restoration",
+                "description": "A chalice that regenerates a small amount of health to anyone who drinks from it.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Spectral Blade",
+                "description": "A blade that can phase through armor, allowing it to damage enemies effectively.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Arcane Codex",
+                "description": "A book filled with mystical spells that grant insights into ancient magic.",
+                "rarity": "epic"
+            },
+            {
+                "title": "The Puzzler's Gauntlet",
+                "description": "A magical gauntlet that reshapes itself to solve any lock or riddle when worn.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Gaze of the Wyvern",
+                "description": "An ornate monocle that grants the wearer the ability to see invisible creatures and hidden traps.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Flickering Flame Lantern",
+                "description": "A lantern that illuminates only dark secrets, revealing illusions and hidden pathways.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Chalice of Lost Echoes",
+                "description": "A grail that, when filled with liquid, allows the drinker to hear the thoughts and memories of others.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Thorned Vine Whip",
+                "description": "A living whip made from enchanted vines that entangles enemies and drains their strength.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Bard's Lamentation",
+                "description": "A lute that can cast spells of sorrow, weakening foes while inspiring allies with courage.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Cloak of the Beast Within",
+                "description": "A cloak that, when worn, allows the bearer to tap into animal instincts, enhancing senses.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Tome of Forgotten Realms",
+                "description": "A mysterious book that reveals lost histories and grants knowledge of long-forgotten spells.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Celestial Compass",
+                "description": "An enchanted compass that points toward the heart's true desire, even leading to hidden realms.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Mirthful Mask of Mischief",
+                "description": "A mask that grants the wearer the power of illusion and misdirection, useful for stealth and subterfuge.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Heart of the Storm Crystal",
+                "description": "A crystal that imbues its wielder with the power of lightning, allowing them to harness thunderous energy.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Mirror of Duality",
+                "description": "A pocket mirror that creates a temporary duplicate of its user to confuse enemies in battle.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Phoenix Ashes Pendant",
+                "description": "A pendant containing the ashes of a phoenix, granting revival abilities once per day.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Vortex Cloak",
+                "description": "A cloak that allows the wearer to create brief whirlwinds, disorienting nearby foes.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Whimsical Whirlwind Ring",
+                "description": "A ring that creates small gusts of wind to redirect projectiles and confuse enemies.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Diviner's Donut",
+                "description": "A magical pastry that, when eaten, grants a vision of the immediate future; only one use per day.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Phoenix Tail Feather Quill",
+                "description": "A quill made from a phoenix's feather that writes in flames and can bring the words to life.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Soulbinder's Pendant",
+                "description": "A pendant that binds the owner’s essence with that of a chosen ally, sharing health and damage taken.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Oathkeeper's Chain",
+                "description": "A chain that binds promises, offering protection to the wearer from betrayal and deceit.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Crown of Shattered Dreams",
+                "description": "A crown that allows the wearer to glimpse alternate realities, revealing paths not taken.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Soulbound Golem Heart",
+                "description": "A crystalline heart that can summon a protective golem for a short duration, absorbing damage.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Timekeeper's Hourglass",
+                "description": "An hourglass that can briefly stop time for a few seconds, allowing strategic repositioning.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Veil of Haunting Memories",
+                "description": "A veil that allows the bearer to project fears and hauntings, unsettling nearby enemies.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Bowl of Eternal Soup",
+                "description": "A bowl that magically refills with delicious soup, granting temporary health regeneration when consumed.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Key of Forgotten Doors",
+                "description": "A key that opens portals to forgotten realms, where untold treasures and challenges lie.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Elysium Prism",
+                "description": "A prism that creates captivating illusions to distract enemies, making them vulnerable to attacks.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Chariot of Whimsical Winds",
+                "description": "A miniature chariot that rides on gusts of wind, allowing quick travel over difficult terrain.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Quicksilver Gloves",
+                "description": "Gloves that grant the ability to manipulate metal, bending small objects to the wielder's will.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Nebulous Battle Standard",
+                "description": "A battle standard that calls upon clouds of fog, providing concealment for allies during battle.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Mimicry Amulet",
+                "description": "An amulet that allows its wearer to temporarily mimic the abilities of nearby creatures.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Gemstone of Echoing Laughter",
+                "description": "A gemstone that, when thrown, releases echoes of laughter, incapacitating foes with confusion.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Orb of Mirth",
+                "description": "An orb that radiates joyous energy, boosting morale and effectiveness of allies in the vicinity.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Cursed Jester's Hat",
+                "description": "A hat that grants luck—but only at the cost of odd mischief befalling the wearer and allies.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Fountain Pen of Infinite Ramblings",
+                "description": "A pen that writes in flowing prose and can summon the spirit of a long-lost bard for advice.",
+                "rarity": "epic"
+            },
+            {
+                "title": " lantern of Delirium",
+                "description": "A lantern that enchants those who look at it, causing whimsical hallucinations that can bewilder enemies.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Banshee's Wail Flute",
+                "description": "A flute that emits a haunting sound, causing fear in enemies within earshot and bolstering allies.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Ink of the Ancients",
+                "description": "A magical ink that reveals hidden knowledge when used to write; only one use per day.",
+                "rarity": "epic"
+            },
+            {
+                "title": "Ramblewood Boots",
+                "description": "Boots that allow the wearer to walk on any surface for a brief time, defying gravity's pull.",
+                "rarity": "epic"
+            }
+        ]
+    },
+    "legendary": {
+        "chance": 5,
+        "items": [
+            {
+                "title": "The Holy Avenger",
+                "description": "A weapon wielded by legends and spoken of in hushed tones.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Mythical Armor of Ages",
+                "description": "Armor that has seen countless battles, rumored to protect the wearer from harm.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Elixir of Immortality",
+                "description": "A mysterious elixir that is said to grant the user immortality.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Sword of Eternal Light",
+                "description": "A sword that shines with an inner light, vanquishing evil.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Cloak of the Divine",
+                "description": "A cloak that grants divine protection from harm.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Ring of the Phoenix",
+                "description": "An enchanted ring said to revive the wearer upon death.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Tome of Infinite Knowledge",
+                "description": "A book that grants the reader incredible knowledge and wisdom.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Titan's Hammer",
+                "description": "A colossal hammer that can summon thunder and lightning.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Aegis of the Cosmos",
+                "description": "A shield forged from the remnants of a dying star, capable of absorbing and reflecting any magical attack.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "The Whispering Blade",
+                "description": "A dagger that feeds on the secrets it strikes, granting the wielder insight into their foes’ weaknesses.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Crown of the Fallen Kings",
+                "description": "An ancient crown that grants the wearer dominion over the spirits of fallen rulers, summoning their wisdom in times of need.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Heart of the Leviathan",
+                "description": "A gemstone pulsing with the essence of the ocean's deepest creature, it grants the ability to command waters and travel through liquid as if it were air.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Lunar Chariot",
+                "description": "A celestial chariot pulled by ethereal steeds, allowing the rider to traverse the skies and travel between realms.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Celestial Convergence Staff",
+                "description": "An ornate staff embedded with celestial stones, capable of channeling the powers of the cosmos to alter reality briefly.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Eclipse Armor",
+                "description": "Armor crafted from the essence of the eclipse, granting the wearer shadowy abilities, making them invisible in darkness.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Fateweaver's Loom",
+                "description": "An ancient loom that allows the user to alter their fate, granting opportunities to rewrite the outcome of past events once per day.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Mirror of the Abyss",
+                "description": "A mirror that reflects the true nature of anyone who gazes into it, revealing their greatest fears or desires.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Song of the Siren's Heart",
+                "description": "A magical instrument that compels those who hear it to gather around its player, pausing all conflict and embedding a sense of peace.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "The Archivist's Quill",
+                "description": "A quill that records the true history of events as they unfold, allowing the writer to recall past battles and gain advantages in future conflicts.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Cloak of the Mythos",
+                "description": "A cloak that grants its wearer the abilities of legendary creatures when wrapped around the body, allowing for transformations and adaptations.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Glaive of the Stormborn",
+                "description": "A fearsome glaive that channels the tempest’s fury, capable of summoning storms and striking down foes with thunderous force.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Dragon's Eye Pendant",
+                "description": "A pendant that allows the wearer to see through the eyes of any beast, commanding their loyalty and understanding their intent.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Tears of the Infinite",
+                "description": "A vial containing the tears of a celestial being, granting temporary invulnerability to the drinker and the ability to heal any wound.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Sunforged Spear",
+                "description": "A spear imbued with the power of the sun, capable of summoning rays of light that burn through darkness.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Echoing Soulstone",
+                "description": "A gemstone that resonates with the emotions of those nearby, allowing the user to influence feelings and create bonds.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Wings of the Aether",
+                "description": "Ethereal wings that grant the bearer the ability to fly and traverse different planes of existence.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Gauntlet of the Ancients",
+                "description": "A gauntlet that grants immense strength and agility, allowing the user to perform superhuman feats in battle.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Scepter of Verdant Life",
+                "description": "A scepter that channels nature’s energy, allowing the wielder to summon flora to ensnare foes or heal allies.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Shroud of the Forgotten Ones",
+                "description": "A tattered shroud that hides secrets of the past, allowing its wearer to commune with lost souls for guidance.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Crown of Elemental Harmony",
+                "description": "A crown that grants control over natural elements—fire, water, earth, and air—bringing balance and power to the wearer.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Timekeeper's Clock",
+                "description": "An intricate clock that can momentarily pause or rewind time, allowing for strategic advantage in dire situations.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Serpent's Fang Dagger",
+                "description": "A dagger that, when drawn, grants the user a potent venom that can incapacitate foes with a single strike.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Staff of Celestial Guidance",
+                "description": "A staff that illuminates the path of destiny, granting the wielder foresight in perilous moments.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Phoenix Wing Cloak",
+                "description": "A cloak that shimmers with fiery hues, allowing the wearer to ignite in flames when threatened, reborn anew from ashes.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Vortex Stone",
+                "description": "A stone that can create a localized gravitational anomaly, allowing the user to manipulate objects and disrupt their foes’ movements.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Orb of Transmutation",
+                "description": "An orb that allows the user to temporarily transform mundane materials into precious resources or magical items.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Celestial Bow of Stars",
+                "description": "A bow that fires arrows made of starlight, each shot bursting with cosmic energy, capable of striking down from the heavens.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Armlet of the Eternal Guardian",
+                "description": "An armlet that summons a protective spirit to defend its wearer in times of danger, absorbing damage destined for them.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Tidebreaker Trident",
+                "description": "A trident said to have been forged in the heart of a maelstrom, granting the wielder supremacy over the oceans and storms.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Veil of the Vanished",
+                "description": "An ethereal veil that allows the wearer to become invisible and walk through walls, making them a master of stealth.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Gilded Tome of Prophecy",
+                "description": "An ancient tome that reveals veiled truths and future events in whispered visions, guiding its reader toward their destiny.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Chalice of Eternal Youth",
+                "description": "A chalice that, once filled with water from a sacred spring, grants temporary youth and vitality to those who drink from it.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Iron Oak Shield",
+                "description": "A shield fashioned from the ancient Ironwood tree, unyielding in defense, and capable of growing roots to anchor the bearer's position.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Soulbound Sickle",
+                "description": "A sickle capable of harvesting not just crops but the very essence of life, draining the vitality of foes to empower the wielder.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Crystal Pendant of Glimmering Dreams",
+                "description": "A pendant that allows the wearer to traverse the realm of dreams, interacting with dreamers and influencing their subconscious.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Runes of the Blood Moon",
+                "description": "Magical runes that, when activated, grant untold power at the expense of the user’s own life force, transforming them into a formidable being.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Anvil of Destiny",
+                "description": "A mythical anvil that imbues weapons crafted upon it with extraordinary properties, allowing the forger to shape their destiny.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Glacial Gauntlets",
+                "description": "Gauntlets that radiate an aura of frost, granting the ability to freeze enemies with a touch and manipulate ice at will.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Echoes of the Past Horn",
+                "description": "A horn that, when blown, calls forth echoes of legendary heroes to fight alongside the user for a brief time.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Spectral Blade of Shadows",
+                "description": "A blade that cuts through the fabric of reality, allowing the wielder to teleport short distances and phase through obstacles.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Phoenix Ember",
+                "description": "A glowing ember from a phoenix's nest, granting resurrection once per user’s life and the ability to ignite the air around them.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Crown of Whispers",
+                "description": "A crown that allows the wearer to communicate with animals and nature, granting insights from creatures of the wild.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Locket of Lost Time",
+                "description": "A locket that permits the user to briefly rewind time, undoing mistakes made within the last few minutes.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "The Searing Compass",
+                "description": "A compass that never points north but instead directs its wielder to their greatest desire. However, its use exacts a price, slowly drawing the user closer to that which they most long for.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Chaotic Constellation Cloak",
+                "description": "A cloak adorned with shifting constellations that grant the wearer the ability to understand and navigate the chaotic currents of fate, allowing them to reroll a single action once per encounter.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Heart of the Abyss Amulet",
+                "description": "An amulet containing the essence of a fallen star, granting the wearer the ability to summon a swirling vortex of darkness and void, absorbing energies and dispelling magic within a radius.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Mirror of the Forgotten Future",
+                "description": "A hand-held mirror that reveals different possible futures when gazed into. Users can glimpse paths long untraveled, but those who see too much may be lost in time.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Whispering Blade of Infinity",
+                "description": "A sword whose blade is eternally forged from the echoes of existence itself. It can cut through reality, creating temporary rifts to alternate dimensions while allowing the wielder a peek into infinite realities.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Crown of Fading Memories",
+                "description": "An exquisite crown that allows the bearer to absorb the memories of those around them, gaining knowledge and skills but losing fragments of their own past each time.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Lunar Anvil",
+                "description": "An anvil said to be blessed by the goddess of the moon. Weapons forged upon it gain the ability to reveal hidden truths under moonlight and deal additional damage to creatures of darkness.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Chrono-Glass Hourglass",
+                "description": "An hourglass that, when flipped, allows the user to freeze time for a limited duration. The user perceives time distinctively while everything around them stands still, but they risk being lost in the folds of time upon overuse.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Phoenix Scale Armor",
+                "description": "Armor woven from the scales of a phoenix, granting the wearer resilience to fire and the ability to emit a fiery aura that can ignite enemies within close proximity.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Celestial Harmonics Lyre",
+                "description": "A lyre that resonates with the music of the cosmos, allowing the player to cast enchantments through melodies that inspire courage, instill fear, or heal allies. Each song played binds a piece of the universe to their fate.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Eldritch Codex of the Lost",
+                "description": "A mystical tome that holds incomprehensible knowledge. Each time its pages are turned, the reader risks madness but gains powerful arcane insights and spells from realms forgotten.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Celestial Cuffs",
+                "description": "A pair of cuffs that bind the wearer to the celestial planes, allowing them to summon creatures of light to aid them in battle while highlighting the users’ inner struggles against darkness.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Emberstone Golem Shard",
+                "description": "A shard infused with the essence of a golem forged from the heart of a volcano. When activated, it creates a fiery golem ally that fights alongside the wielder for a limited time, embodying their anger and valor.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Veins of the Earth Staff",
+                "description": "A staff made from the very lifeblood of the earth, pulsating with energy. It allows the wielder to manipulate geological forces, summon tremors, and even shift the landscape around them.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Pathfinder's Golden Glaive",
+                "description": "A glaive that shines with an otherworldly glow, guiding its wielder through treacherous lands. The wielder can create pathways where none exist, leading allies safely through magical terrains.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Veil of Forgotten Dreams",
+                "description": "An intricately woven veil that allows its wearer to access the dreams of others, offering insights and secrets — but every use also risks flooding their own mind with forgotten memories.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Starlit Lantern",
+                "description": "A lantern that shines with captured starlight. When lit, it reveals hidden paths and objects, guiding adventurers through illusions and darkness but casting eerie shadows of the past.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "The Echoing Gauntlet",
+                "description": "A gauntlet that can absorb sound and release it as powerful sonic blasts. Each time it is used, echoes from the past can be heard, reminding the user of choices long made.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Phantom Ink Quill",
+                "description": "A quill that writes with ink made from the shadows of the unknown. Words written can bring forth illusions or animate objects briefly, but the price is drawing attention from spectral beings.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Elysian Chariot",
+                "description": "A chariot pulled by ethereal steeds that can travel between realms. Stepping inside grants the ability to traverse both land and sky, but one must be wary of time flowing differently in each realm.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Dragon's Heartstone",
+                "description": "A radiant stone containing the heart of a dragon. It grants immense power, allowing the bearer to control fire and gain an affinity with dragons, but it also burdens them with the responsibility of upholding draconic traditions.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Chime of the Lost Woods",
+                "description": "A chime that resonates with the whispers of ancient trees. When struck, it calls to woodland creatures for aid and can reveal the hidden paths in dense forests, but it also risks awakening dormant curses.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Scepter of Shattered Realities",
+                "description": "A scepter that bends the fabric of reality. It can warp space to create temporary safe havens or disorient foes, but prolonged use can fracture the user’s own perception of time.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Bardiche of Blazing Trails",
+                "description": "A halberd that ignites the ground with each strike, leaving a trail of fire. Wielders gain the ability to ride flames, propelling themselves forward with bursts of fiery energy.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Illuminated Mists Cloak",
+                "description": "A cloak woven from the mists of dawn, shrouding the wearer in soft light. It grants the ability to phase through barriers and grant temporary invisibility, but the identity of the wearer may become obscured.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Wand of Recursive Echoes",
+                "description": "A wand that can create echoes of spells just cast, firing them again at will. However, each echo can spiral out of control, creating unpredictable results if not managed carefully.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "The Elder's Map",
+                "description": "A constantly shifting map that reveals paths to hidden treasures and lost lands. It grants the user unparalleled navigation skills, but they may find their fate intertwined with those who seek the same treasures.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Obsidian Sphere of Visions",
+                "description": "An obsidian orb that reveals glimpses of forthcoming events. Users can alter their paths based on the visions, but each glance steals a fragment of their memory, making the burden of knowledge heavy.",
+                "rarity": "legendary"
+            },
+            {
+                "title": "Gaea’s Embrace Boots",
+                "description": "These boots allow the wearer to meld with nature, moving with unrestricted speed across terrain. They can leave behind a trail of blooming flowers or frozen foliage, depending on the user’s intent.",
+                "rarity": "legendary"
+            }
+        ]
+    }
+}
+}
