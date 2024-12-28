@@ -9,7 +9,7 @@ Bumbling Bard is a Discord bot designed to enhance your server with a variety of
 *   **Play music:** Search for and play songs from YouTube and Spotify directly into voice channels.
 *   **Manage Playlists:** Create, save, and manage song queues.
 *   **Dice Rolling:** Roll various types of dice for tabletop-style games or random outcomes.
-*   **NPC Generation:** Generate random non-player characters with names, races, and basic traits.
+*   **NPC Generation:** Generate random non-player characters with basic traits.
 *   **Loot Tables:** Generate loot based on specified rarity or a general table.
 *   **Interactive Menus:** Use engaging interactive menus for certain commands, enhancing the user experience.
 
